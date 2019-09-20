@@ -2,5 +2,5 @@
 
 int main()
 {
-    printf("Hello, fox!");
+    puts("Hello both fox and rabbit!");
 }
