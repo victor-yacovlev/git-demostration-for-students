@@ -2,5 +2,5 @@
 
 int main()
 {
-    puts("Hello!");
+    puts("Hello, Rabbit");
 }
