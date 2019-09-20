@@ -7,5 +7,5 @@ int main()
     using std::cout;
     using std::endl;
     
-    cout << "Hello World!" << endl;
+    cout << "Hello Rabbit!" << end;
 }
